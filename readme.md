@@ -1,4 +1,4 @@
-readme
+
 The following notebook is an extension of work performed 2020-2021 in the Data Science For All program, hosted by Correlation One.
 
 This project was inspired by seeing the difficulties experienced by small business owners like my father. The goal was to go beyond the mere observation that the Covid-19 pandemic created economic hardship: what was the relationship between Covid's spread and business difficulties? Did this relationship vary between states? Did it change over time? This project aims to begin answering these questions, with the hope of better equipping small business owners with the tools to react.
